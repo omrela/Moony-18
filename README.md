@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Omar.
-
+ Hey, I’m Omar :)
