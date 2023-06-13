@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Moony-18&theme=github-dark-blue&border_radius=5.8&background=000000&border=222222&ring=222222&currStreakNum=234EDB&stroke=222222&fire=234EDB&sideNums=234EDB)](https://git.io/streak-stats)
+
